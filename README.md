@@ -6,6 +6,7 @@ I am Domenico, a FullStack & Blockchain Developer with expertise in the Web (and
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domenico.romeo-3919) 
+[![Portfolio]](https://domenico.dev) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=domenicodev&theme=dark&hide_border=false)<br/>
